@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Kalinnikov2n/phase-2-assessment-party#readme",
   "dependencies": {
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "cookie-parser": "^1.4.4",
     "express": "^4.17.1",
     "express-handlebars": "^3.1.0",
